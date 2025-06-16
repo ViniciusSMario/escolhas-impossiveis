@@ -1,0 +1,1898 @@
+{
+  "+18": [
+    {
+      "question": "Ser traído e saber ou nunca saber, mas ser traído constantemente?",
+      "option1": "Ser traído e saber",
+      "option2": "Nunca saber, mas ser traído constantemente"
+    },
+    {
+      "question": "Viver com um parceiro infiel ou nunca mais ter um relacionamento?",
+      "option1": "Viver com um parceiro infiel",
+      "option2": "Nunca mais ter um relacionamento"
+    },
+    {
+      "question": "Perder sua privacidade na internet ou nunca mais acessar a internet?",
+      "option1": "Perder sua privacidade na internet",
+      "option2": "Nunca mais acessar a internet"
+    },
+    {
+      "question": "Beber algo estragado para impressionar ou perder a confiança de todos por ser medroso?",
+      "option1": "Beber algo estragado para impressionar",
+      "option2": "Perder a confiança de todos por ser medroso"
+    },
+    {
+      "question": "Levar um peido na cara ou cuspe no olho?",
+      "option1": "Levar um peido na cara",
+      "option2": "Cuspe no olho"
+    },
+    {
+      "question": "Se chamar Adolf Hitler ou ter a cara de Adolf Hitler?",
+      "option1": "Se chamar Adolf Hitler",
+      "option2": "Ter a cara de Adolf Hitler"
+    },
+    {
+      "question": "Compartilhar detalhes íntimos com desconhecidos ou nunca mais compartilhar com ninguém?",
+      "option1": "Compartilhar detalhes íntimos com desconhecidos",
+      "option2": "Nunca mais compartilhar com ninguém"
+    },
+    {
+      "question": "Ser julgado por todas as suas ações ou nunca mais ser notado?",
+      "option1": "Ser julgado por todas as suas ações",
+      "option2": "Nunca mais ser notado"
+    },
+    {
+      "question": "Perder sua aparência jovem para sempre ou nunca mais confiar em espelhos?",
+      "option1": "Perder sua aparência jovem para sempre",
+      "option2": "Nunca mais confiar em espelhos"
+    },
+    {
+      "question": "Ter o amor da sua vida em segredo ou nunca amar novamente?",
+      "option1": "Ter o amor da sua vida em segredo",
+      "option2": "Nunca amar novamente"
+    },
+    {
+      "question": "Sempre falar a verdade ou nunca mais poder falar?",
+      "option1": "Sempre falar a verdade",
+      "option2": "Nunca mais poder falar"
+    },
+    {
+      "question": "Viver sem amigos ou viver sem dinheiro?",
+      "option1": "Viver sem amigos",
+      "option2": "Viver sem dinheiro"
+    },
+    {
+      "question": "Nunca mais fazer sexo ou nunca mais beijar?",
+      "option1": "Nunca mais fazer sexo",
+      "option2": "Nunca mais beijar"
+    },
+    {
+      "question": "Sentar numa pik4 e comer um bolo ou Sentar em um bolo e comer uma pik4?",
+      "option1": "Sentar numa pik4 e comer um bolo",
+      "option2": "Sentar em um bolo e chupar uma pik4"
+    },
+    {
+      "question": "Ganhar muito dinheiro em um emprego horrível ou viver com pouco em um trabalho dos sonhos?",
+      "option1": "Ganhar muito dinheiro em um emprego horrível",
+      "option2": "Viver com pouco em um trabalho dos sonhos"
+    },
+    {
+      "question": "Viver 10 anos a mais com saúde frágil ou 10 anos a menos com saúde perfeita?",
+      "option1": "Viver 10 anos a mais com saúde frágil",
+      "option2": "Viver 10 anos a menos com saúde perfeita"
+    },
+    {
+      "question": "Ter sucesso absoluto, mas sem ninguém para compartilhar ou fracassar com pessoas amadas ao redor?",
+      "option1": "Ter sucesso absoluto mas sem ninguém para compartilhar",
+      "option2": "Fracassar com pessoas amadas ao redor"
+    },
+    {
+      "question": "Nunca mais ter filhos ou ter 10 filhos de uma vez?",
+      "option1": "Nunca mais ter filhos",
+      "option2": "Ter 10 filhos de uma vez"
+    },
+    {
+      "question": "Ter fama internacional e ser odiado ou viver no anonimato sendo amado?",
+      "option1": "Ter fama internacional e ser odiado",
+      "option2": "Viver no anonimato sendo amado"
+    },
+    {
+      "question": "Ter que contar seu maior segredo a todos ou nunca mais poder guardar um segredo?",
+      "option1": "Ter que contar seu maior segredo a todos",
+      "option2": "Nunca mais poder guardar um segredo"
+    },
+    {
+      "question": "Sempre viver em festas ou nunca mais poder participar de uma?",
+      "option1": "Sempre viver em festas",
+      "option2": "Nunca mais poder participar de uma"
+    },
+    {
+      "question": "Poder viajar para qualquer lugar do mundo, mas sozinho, ou nunca sair do país com amigos?",
+      "option1": "Poder viajar para qualquer lugar do mundo sozinho",
+      "option2": "Nunca sair do país com amigos"
+    },
+    {
+      "question": "Nunca mais poder assistir filmes ou nunca mais ouvir músicas?",
+      "option1": "Nunca mais poder assistir filmes",
+      "option2": "Nunca mais ouvir músicas"
+    },
+    {
+      "question": "Ter uma vida emocionante, mas curta, ou uma vida longa, mas monótona?",
+      "option1": "Ter uma vida emocionante, mas curta",
+      "option2": "Ter uma vida longa, mas monótona"
+    },
+    {
+      "question": "Nunca mais usar redes sociais ou nunca mais sair de casa?",
+      "option1": "Nunca mais usar redes sociais",
+      "option2": "Nunca mais sair de casa"
+    },
+    {
+      "question": "Ter que viver sem amor ou sem ambição?",
+      "option1": "Ter que viver sem amor",
+      "option2": "Ter que viver sem ambição"
+    },
+    {
+      "question": "Nunca mais comer a comida que ama ou nunca mais viajar?",
+      "option1": "Nunca mais comer a comida que ama",
+      "option2": "Nunca mais viajar"
+    },
+    {
+      "question": "Sempre esquecer quem você é ou esquecer quem os outros são?",
+      "option1": "Sempre esquecer quem você é",
+      "option2": "Sempre esquecer quem os outros são"
+    },
+    {
+      "question": "Ter sempre que mentir ou nunca mais falar?",
+      "option1": "Ter sempre que mentir",
+      "option2": "Nunca mais falar"
+    },
+    {
+      "question": "Sempre estar errado ou nunca mais ter opinião?",
+      "option1": "Sempre estar errado",
+      "option2": "Nunca mais ter opinião"
+    },
+    {
+      "question": "Nunca mais usar tecnologia ou nunca mais sair ao ar livre?",
+      "option1": "Nunca mais usar tecnologia",
+      "option2": "Nunca mais sair ao ar livre"
+    },
+    {
+      "question": "Ter que conviver com o pior dia da sua vida ou nunca mais ter memória alguma?",
+      "option1": "Ter que conviver com o pior dia da sua vida",
+      "option2": "Nunca mais ter memória alguma"
+    },
+    {
+      "question": "Sempre ter que agradar os outros ou nunca mais agradar ninguém?",
+      "option1": "Sempre ter que agradar os outros",
+      "option2": "Nunca mais agradar ninguém"
+    },
+    {
+      "question": "Ter que reviver o mesmo dia sempre ou nunca lembrar do que aconteceu ontem?",
+      "option1": "Ter que reviver o mesmo dia sempre",
+      "option2": "Nunca lembrar do que aconteceu ontem"
+    },
+    {
+      "question": "Ter uma fortuna que ninguém pode saber ou nunca ter dinheiro suficiente?",
+      "option1": "Ter uma fortuna que ninguém pode saber",
+      "option2": "Nunca ter dinheiro suficiente"
+    },
+    {
+      "question": "Nunca mais poder mudar de opinião ou mudar de opinião a cada minuto?",
+      "option1": "Nunca mais poder mudar de opinião",
+      "option2": "Mudar de opinião a cada minuto"
+    },
+    {
+      "question": "Ter que refazer tudo o que faz ou nunca poder consertar algo errado?",
+      "option1": "Ter que refazer tudo o que faz",
+      "option2": "Nunca poder consertar algo errado"
+    },
+    {
+      "question": "Viver em completa escuridão ou em uma luz que nunca apaga?",
+      "option1": "Viver em completa escuridão",
+      "option2": "Viver em uma luz que nunca apaga"
+    },
+    {
+      "question": "Sempre ter que correr para chegar a tempo ou nunca sair de casa?",
+      "option1": "Sempre ter que correr para chegar a tempo",
+      "option2": "Nunca sair de casa"
+    },
+    {
+      "question": "Ter um emprego horrível, mas com muito dinheiro ou o emprego perfeito sem salário?",
+      "option1": "Ter um emprego horrível, mas com muito dinheiro",
+      "option2": "Emprego perfeito sem salário"
+    },
+    {
+      "question": "Nunca mais poder ouvir sua voz ou nunca mais ouvir a voz de alguém?",
+      "option1": "Nunca mais poder ouvir sua voz",
+      "option2": "Nunca mais ouvir a voz de alguém"
+    },
+    {
+      "question": "Ser medíocre como profissional ou como amante?",
+      "option1": "Ser medíocre como profissional",
+      "option2": "Ser medíocre como amante"
+    },
+    {
+      "question": "Chorar sempre que tiver um orgasmo ou sempre ter um orgasmo quando chorar",
+      "option1": "Chorar sempre que tiver um orgasmo",
+      "option2": "Sempre ter um orgasmo quando chorar"
+    },
+    {
+      "question": "Ter tudo que há no seu celular divulgado ao público ou nunca mais usar um celular",
+      "option1": "Ter tudo que há no seu celular divulgado ao público",
+      "option2": "Nunca mais usar um celular"
+    }
+  ],
+  "Infantil": [
+    {
+      "question": "Ganhar todos os brinquedos que quiser, mas nunca poder abrir ou só ter um brinquedo, mas poder brincar o quanto quiser?",
+      "option1": "Ganhar todos os brinquedos que quiser, mas nunca poder abrir",
+      "option2": "Ter um brinquedo, mas brincar sempre"
+    },
+    {
+      "question": "Ser o único que nunca perde no esconde-esconde, mas não poder brincar de outro jogo ou ser o melhor em todos os outros jogos, mas perder no esconde-esconde?",
+      "option1": "Ser o único que nunca perde no esconde-esconde, mas não poder brincar de outro jogo",
+      "option2": "Ser o melhor nos outros jogos"
+    },
+    {
+      "question": "Poder voar por 5 minutos ou ficar invisível por 10 minutos?",
+      "option1": "Poder voar por 5 minutos",
+      "option2": "Ficar invisível por 10 minutos"
+    },
+    {
+      "question": "Ter que comer brócolis em todas as refeições ou nunca mais comer doces?",
+      "option1": "Ter que comer brócolis em todas as refeições",
+      "option2": "Nunca mais comer doces"
+    },
+    {
+      "question": "Sempre ganhar brinquedos sem pilha ou sempre ter pilhas, mas nenhum brinquedo eletrônico?",
+      "option1": "Sempre ganhar brinquedos sem pilha",
+      "option2": "Ter pilhas, mas sem brinquedos eletrônicos"
+    },
+    {
+      "question": "Ter um dragão como amigo ou poder conversar com qualquer animal?",
+      "option1": "Ter um dragão como amigo",
+      "option2": "Conversar com qualquer animal"
+    },
+    {
+      "question": "Poder comer chocolate que nunca acaba ou ter um suco que muda de sabor toda vez?",
+      "option1": "Poder comer chocolate que nunca acaba",
+      "option2": "Suco que muda de sabor"
+    },
+    {
+      "question": "Ficar preso em um mundo de doces ou em um mundo de brinquedos?",
+      "option1": "Ficar preso em um mundo de doces",
+      "option2": "Ficar preso em um mundo de brinquedos"
+    },
+    {
+      "question": "Nunca mais assistir desenhos animados ou nunca mais jogar videogames?",
+      "option1": "Nunca mais assistir desenhos animados",
+      "option2": "Nunca mais jogar videogames"
+    },
+    {
+      "question": "Ter que usar pijamas de unicórnio para sempre ou nunca mais usar pijamas?",
+      "option1": "Ter que usar pijamas de unicórnio para sempre",
+      "option2": "Nunca mais usar pijamas"
+    },
+    {
+      "question": "Ter que escovar os dentes por uma hora todos os dias ou nunca mais comer balas?",
+      "option1": "Ter que escovar os dentes por uma hora todos os dias",
+      "option2": "Nunca mais comer balas"
+    },
+    {
+      "question": "Ter um quarto cheio de bolas de piscina ou uma cama que pula como um trampolim?",
+      "option1": "Ter um quarto cheio de bolas de piscina",
+      "option2": "Ter uma cama que pula como trampolim"
+    },
+    {
+      "question": "Nunca mais poder brincar ao ar livre ou nunca mais poder brincar em casa?",
+      "option1": "Nunca mais poder brincar ao ar livre",
+      "option2": "Nunca mais poder brincar em casa"
+    },
+    {
+      "question": "Ganhar um sorvete que nunca derrete ou um milkshake que nunca acaba?",
+      "option1": "Ganhar um sorvete que nunca derrete",
+      "option2": "Milkshake que nunca acaba"
+    },
+    {
+      "question": "Sempre ser o último a ser escolhido nos jogos ou nunca ser chamado para brincar?",
+      "option1": "Sempre ser o último a ser escolhido nos jogos",
+      "option2": "Nunca ser chamado para brincar"
+    },
+    {
+      "question": "Ter um cachorro que fala ou um gato que voa?",
+      "option1": "Ter um cachorro que fala",
+      "option2": "Gato que voa"
+    },
+    {
+      "question": "Poder mudar de cor como um camaleão ou saltar como um canguru?",
+      "option1": "Poder mudar de cor como um camaleão",
+      "option2": "Saltar como um canguru"
+    },
+    {
+      "question": "Só poder beber refrigerante ou só poder comer doces pelo resto da vida?",
+      "option1": "Só poder beber refrigerante",
+      "option2": "Só poder comer doces pelo resto da vida"
+    },
+    {
+      "question": "Ter que usar roupas supercoloridas ou roupas pretas todos os dias?",
+      "option1": "Ter que usar roupas supercoloridas",
+      "option2": "Roupas pretas todos os dias"
+    },
+    {
+      "question": "Ter que fazer a tarefa de casa de todos os seus amigos ou nunca mais fazer sua própria tarefa?",
+      "option1": "Ter que fazer a tarefa de casa de todos os seus amigos",
+      "option2": "Nunca mais fazer sua própria tarefa"
+    },
+    {
+      "question": "Ter asas de fada ou superforça como um super-herói?",
+      "option1": "Ter asas de fada",
+      "option2": "Superforça como super-herói"
+    },
+    {
+      "question": "Sempre ganhar jogos de tabuleiro ou sempre ser o melhor em videogames?",
+      "option1": "Sempre ganhar jogos de tabuleiro",
+      "option2": "Sempre ser o melhor em videogames"
+    },
+    {
+      "question": "Só poder assistir filmes de princesas ou de dinossauros pelo resto da vida?",
+      "option1": "Só poder assistir filmes de princesas",
+      "option2": "Só poder assistir filmes de dinossauros"
+    },
+    {
+      "question": "Nunca mais poder comer pizza ou nunca mais poder comer hambúrguer?",
+      "option1": "Nunca mais poder comer pizza",
+      "option2": "Nunca mais poder comer hambúrguer"
+    },
+    {
+      "question": "Poder voar apenas 1 metro do chão ou poder ficar invisível apenas em casa?",
+      "option1": "Poder voar apenas 1 metro do chão",
+      "option2": "Poder ficar invisível apenas em casa"
+    },
+    {
+      "question": "Ter um tapete mágico ou um carrinho que voa?",
+      "option1": "Ter um tapete mágico",
+      "option2": "Carrinho que voa"
+    },
+    {
+      "question": "Sempre ganhar balões em festas ou sempre ganhar sorvetes?",
+      "option1": "Sempre ganhar balões em festas",
+      "option2": "Sempre ganhar sorvetes"
+    },
+    {
+      "question": "Nunca mais poder usar sapatos ou nunca mais poder usar chapéus?",
+      "option1": "Nunca mais poder usar sapatos",
+      "option2": "Nunca mais poder usar chapéus"
+    },
+    {
+      "question": "Ter supervelocidade, mas sempre tropeçar ou nunca correr rápido?",
+      "option1": "Ter supervelocidade, mas sempre tropeçar",
+      "option2": "Nunca correr rápido"
+    },
+    {
+      "question": "Ter que dormir 18 horas por dia ou nunca mais poder dormir de dia?",
+      "option1": "Ter que dormir 18 horas por dia",
+      "option2": "Nunca mais dormir de dia"
+    },
+    {
+      "question": "Só poder comer comida que brilha no escuro ou comida que faz barulhos engraçados?",
+      "option1": "Só poder comer comida que brilha no escuro",
+      "option2": "Comida que faz barulhos engraçados"
+    },
+    {
+      "question": "Ser superinteligente, mas não saber brincar ou brincar muito bem, mas nunca entender as regras?",
+      "option1": "Ser superinteligente, mas não saber brincar",
+      "option2": "Brincar muito bem, mas nunca entender regras"
+    },
+    {
+      "question": "Ter um amigo imaginário que fala demais ou um que nunca fala nada?",
+      "option1": "Ter um amigo imaginário que fala demais",
+      "option2": "Amigo imaginário que nunca fala nada"
+    },
+    {
+      "question": "Poder controlar o tempo, mas só voltar 1 minuto ou avançar 10 anos?",
+      "option1": "Poder controlar o tempo, mas só voltar 1 minuto",
+      "option2": "Avançar 10 anos"
+    },
+    {
+      "question": "Sempre ter que usar fantasias ou nunca poder usar fantasias?",
+      "option1": "Sempre ter que usar fantasias",
+      "option2": "Nunca poder usar fantasias"
+    },
+    {
+      "question": "Ter um parque de diversões no quintal ou uma piscina cheia de bolinhas?",
+      "option1": "Ter um parque de diversões no quintal",
+      "option2": "Piscina cheia de bolinhas"
+    },
+    {
+      "question": "Nunca mais poder comer comida colorida ou nunca mais poder comer comida sem cor?",
+      "option1": "Nunca mais poder comer comida colorida",
+      "option2": "Nunca comer comida sem cor"
+    },
+    {
+      "question": "Ter que estudar magia ou ciência o dia inteiro?",
+      "option1": "Ter que estudar magia o dia inteiro",
+      "option2": "Ter que estudar ciência o dia inteito "
+    },
+    {
+      "question": "Nunca mais brincar na chuva ou nunca mais brincar na areia?",
+      "option1": "Nunca mais brincar na chuva",
+      "option2": "Nunca mais brincar na areia"
+    },
+    {
+      "question": "Sempre ter que pular como um sapo ou andar como um caranguejo?",
+      "option1": "Sempre ter que pular como um sapo",
+      "option2": "Andar como um caranguejo"
+    },
+    {
+      "question": "Nunca mais poder usar sua cor favorita ou só poder usar sua cor favorita?",
+      "option1": "Nunca mais poder usar sua cor favorita",
+      "option2": "Só poder usar sua cor favorita"
+    },
+    {
+      "question": "Sempre perder os jogos ou nunca poder participar deles?",
+      "option1": "Sempre perder os jogos",
+      "option2": "Nunca poder participar deles"
+    },
+    {
+      "question": "Só poder assistir filmes de heróis ou de vilões?",
+      "option1": "Só poder assistir filmes de heróis",
+      "option2": "Só poder assistir filmes de vilões"
+    },
+    {
+      "question": "Ter que fazer um milhão de bolhas de sabão ou um castelo de areia gigante todo dia?",
+      "option1": "Ter que fazer um milhão de bolhas de sabão todo dia",
+      "option2": "Ter que fazer um castelo de areia gigante todo dia"
+    },
+    {
+      "question": "Ter um arco-íris no quarto ou um jardim de estrelas no quintal?",
+      "option1": "Ter um arco-íris no quarto",
+      "option2": "Ter um jardim de estrelas no quintal"
+    },
+    {
+      "question": "Poder tocar em qualquer instrumento musical, mas nunca ouvir música ou só ouvir música e nunca tocar?",
+      "option1": "Poder tocar em qualquer instrumento musical, mas nunca ouvir música",
+      "option2": "Ouvir música, mas não poder tocar nunca"
+    }
+  ],
+  "Família": [
+    {
+      "question": "Ter que passar todos os feriados longe da família ou nunca mais poder tirar férias com eles?",
+      "option1": "Ter que passar todos os feriados longe da família",
+      "option2": "Nunca mais tirar férias com eles"
+    },
+    {
+      "question": "Sempre ter que fazer todas as tarefas domésticas sozinho ou nunca mais poder opinar em decisões familiares?",
+      "option1": "Sempre ter que fazer todas as tarefas domésticas sozinho",
+      "option2": "Nunca mais opinar em decisões familiares"
+    },
+    {
+      "question": "Nunca mais poder abraçar sua família ou nunca mais poder dizer 'eu te amo' para eles?",
+      "option1": "Nunca mais poder abraçar sua família",
+      "option2": "Nunca mais dizer 'eu te amo'"
+    },
+    {
+      "question": "Ter que resolver todas as brigas familiares ou nunca mais poder participar de reuniões de família?",
+      "option1": "Ter que resolver todas as brigas familiares",
+      "option2": "Nunca mais participar de reuniões de família"
+    },
+    {
+      "question": "Sempre ter que planejar todas as viagens familiares ou nunca mais poder viajar com eles?",
+      "option1": "Sempre ter que planejar todas as viagens familiares",
+      "option2": "Nunca mais viajar com eles"
+    },
+    {
+      "question": "Ter que cuidar de um parente idoso sozinho ou nunca mais poder contar com a ajuda da família?",
+      "option1": "Ter que cuidar de um parente idoso sozinho",
+      "option2": "Nunca mais contar com ajuda da família"
+    },
+    {
+      "question": "Nunca mais poder tirar fotos com sua família ou nunca mais guardar lembranças físicas deles?",
+      "option1": "Nunca mais poder tirar fotos com sua família",
+      "option2": "Nunca mais guardar lembranças físicas"
+    },
+    {
+      "question": "Ter que morar com toda a sua família em uma casa pequena ou morar sozinho em uma mansão?",
+      "option1": "Ter que morar com toda a sua família em uma casa pequena",
+      "option2": "Morar sozinho em uma mansão"
+    },
+    {
+      "question": "Sempre ter que ajudar sua família a mudar de casa ou nunca mais poder mudar de casa você mesmo?",
+      "option1": "Sempre ter que ajudar sua família a mudar de casa",
+      "option2": "Nunca mais mudar de casa"
+    },
+    {
+      "question": "Nunca mais poder compartilhar suas conquistas com sua família ou nunca mais poder contar seus problemas para eles?",
+      "option1": "Nunca mais poder compartilhar suas conquistas com sua família",
+      "option2": "Nunca mais poder compartilhar seus problemas com sua família"
+    },
+    {
+      "question": "Ter que organizar todas as festas familiares ou nunca mais poder participar delas?",
+      "option1": "Ter que organizar todas as festas familiares",
+      "option2": "Nunca mais participar delas"
+    },
+    {
+      "question": "Nunca mais celebrar aniversários em família ou nunca mais celebrar feriados juntos?",
+      "option1": "Nunca mais celebrar aniversários em família",
+      "option2": "Nunca mais celebrar feriados juntos"
+    },
+    {
+      "question": "Sempre ser o responsável por cozinhar em todas as refeições familiares ou nunca mais poder comer com sua família?",
+      "option1": "Sempre ser o responsável por cozinhar em todas as refeições familiares",
+      "option2": "Nunca mais comer com a família"
+    },
+    {
+      "question": "Nunca mais poder rir com sua família ou nunca mais discutir com eles?",
+      "option1": "Nunca mais poder rir com sua família",
+      "option2": "Nunca mais discutir com eles"
+    },
+    {
+      "question": "Sempre ser a pessoa que ajuda financeiramente sua família ou nunca mais poder ajudá-los de outra forma?",
+      "option1": "Sempre ser a pessoa que ajuda financeiramente sua família",
+      "option2": "Nunca mais poder ajudar de outra forma"
+    },
+    {
+      "question": "Ter que compartilhar todos os seus segredos com sua família ou nunca mais poder confiar neles?",
+      "option1": "Ter que compartilhar todos os seus segredos com sua família",
+      "option2": "Nunca mais poder confiar na família"
+    },
+    {
+      "question": "Ter que morar longe de toda a sua família ou viver na mesma casa com todos os seus parentes?",
+      "option1": "Ter que morar longe de toda a sua família",
+      "option2": "Viver na mesma casa com todos"
+    },
+    {
+      "question": "Sempre ter que ceder nas decisões familiares ou nunca mais ser considerado nas escolhas?",
+      "option1": "Sempre ter que ceder nas decisões familiares",
+      "option2": "Nunca mais ser considerado nas escolhas"
+    },
+    {
+      "question": "Ter que planejar todas as viagens em família ou nunca mais poder viajar com eles?",
+      "option1": "Ter que planejar todas as viagens em família",
+      "option2": "Nunca mais poder viajar com eles"
+    },
+    {
+      "question": "Nunca mais poder pedir conselhos para sua família ou nunca mais poder dar conselhos a eles?",
+      "option1": "Nunca mais poder pedir conselhos para sua família",
+      "option2": "Nunca mais dar conselhos"
+    },
+    {
+      "question": "Sempre ser responsável por mediar todas as discussões familiares ou nunca mais poder opinar em nada?",
+      "option1": "Sempre ser responsável por mediar todas as discussões familiares",
+      "option2": "Nunca mais poder opinar em nada"
+    },
+    {
+      "question": "Nunca mais poder ver sua família pessoalmente ou nunca mais poder falar com eles virtualmente?",
+      "option1": "Nunca mais poder ver sua família pessoalmente",
+      "option2": "Nunca mais falar com eles virtualmente"
+    },
+    {
+      "question": "Ter que lavar todas as roupas da família ou nunca mais lavar suas próprias roupas?",
+      "option1": "Ter que lavar todas as roupas da família",
+      "option2": "Nunca mais lavar as suas roupas"
+    },
+    {
+      "question": "Sempre ter que assistir aos programas de TV favoritos da sua família ou nunca mais assistir TV com eles?",
+      "option1": "Sempre ter que assistir aos programas de TV favoritos da sua família",
+      "option2": "Nunca mais assistir TV com eles"
+    },
+    {
+      "question": "Nunca mais poder brincar com seus filhos ou nunca mais poder ajudá-los nos estudos?",
+      "option1": "Nunca mais poder brincar com seus filhos",
+      "option2": "Nunca mais ajudá-los nos estudos"
+    },
+    {
+      "question": "Ter que morar com seus sogros para sempre ou nunca mais ver seus pais?",
+      "option1": "Ter que morar com seus sogros para sempre",
+      "option2": "Nunca mais ver seus pais"
+    },
+    {
+      "question": "Ter que fazer todas as refeições em família ou nunca mais poder comer com eles?",
+      "option1": "Ter que fazer todas as refeições em família",
+      "option2": "Nunca mais comer com eles"
+    },
+    {
+      "question": "Nunca mais ter um Natal com sua família ou nunca mais ter um aniversário com eles?",
+      "option1": "Nunca mais ter um Natal com sua família",
+      "option2": "Nunca mais ter aniversário com eles"
+    },
+    {
+      "question": "Sempre ser o motorista de todas as viagens em família ou nunca mais viajar com eles?",
+      "option1": "Sempre ser o motorista de todas as viagens em família",
+      "option2": "Nunca mais viajar com eles"
+    },
+    {
+      "question": "Ter que ajudar a cuidar de todos os parentes idosos ou nunca mais poder ver seus sobrinhos?",
+      "option1": "Ter que ajudar a cuidar de todos os parentes idosos",
+      "option2": "Nunca mais ver seus sobrinhos"
+    },
+    {
+      "question": "Ter que resolver todos os problemas financeiros da sua família ou nunca mais poder ajudar financeiramente?",
+      "option1": "Ter que resolver todos os problemas financeiros da sua família",
+      "option2": "Nunca mais ajudar financeiramente"
+    },
+    {
+      "question": "Nunca mais poder ir a festas de família ou nunca mais poder sair com seus amigos?",
+      "option1": "Nunca mais poder ir a festas de família",
+      "option2": "Nunca mais sair com amigos"
+    },
+    {
+      "question": "Ter que contar todos os seus segredos para sua família ou nunca mais falar com eles sobre sua vida pessoal?",
+      "option1": "Ter que contar todos os seus segredos para sua família",
+      "option2": "Nunca mais falar da sua vida pessoal"
+    },
+    {
+      "question": "Nunca mais poder voltar para sua cidade natal ou nunca mais poder sair dela?",
+      "option1": "Nunca mais poder voltar para sua cidade natal",
+      "option2": "Nunca mais sair dela"
+    },
+    {
+      "question": "Ter que morar com um parente distante que você mal conhece ou nunca mais poder visitar parentes próximos?",
+      "option1": "Ter que morar com um parente distante que você mal conhece",
+      "option2": "Nunca mais visitar parentes próximos"
+    },
+    {
+      "question": "Sempre ser o último a saber das novidades da família ou nunca mais receber notícias deles?",
+      "option1": "Sempre ser o último a saber das novidades da família",
+      "option2": "Nunca mais receber notícias"
+    },
+    {
+      "question": "Ter que dividir um quarto com um irmão para sempre ou nunca mais morar com sua família?",
+      "option1": "Ter que dividir um quarto com um irmão para sempre",
+      "option2": "Nunca mais morar com sua família"
+    },
+    {
+      "question": "Nunca mais poder dar presentes à sua família ou nunca mais poder receber presentes deles?",
+      "option1": "Nunca mais poder dar presentes à sua família",
+      "option2": "Nunca mais receber presentes"
+    },
+    {
+      "question": "Sempre ter que ajudar nas mudanças da sua família ou nunca mais poder morar perto deles?",
+      "option1": "Sempre ter que ajudar nas mudanças da sua família",
+      "option2": "Nunca mais morar perto deles"
+    },
+    {
+      "question": "Sempre ser a pessoa que faz as sobremesas em reuniões familiares ou nunca mais comer sobremesas feitas pela sua família?",
+      "option1": "Sempre ser a pessoa que faz as sobremesas em reuniões familiares",
+      "option2": "Nunca mais comer sobremesas da família"
+    },
+    {
+      "question": "Sempre ter que resolver todos os problemas da sua família ou nunca mais poder ajudá-los em nada?",
+      "option1": "Sempre ter que resolver todos os problemas da sua família",
+      "option2": "Nunca mais ajudá-los"
+    },
+    {
+      "question": "Ter que viver sem fotos da sua família ou viver sem vídeos deles?",
+      "option1": "Ter que viver sem fotos da sua família",
+      "option2": "Viver sem vídeos da família"
+    },
+    {
+      "question": "Ter que fazer compras para toda a família toda semana ou nunca mais poder fazer compras para si mesmo?",
+      "option1": "Ter que fazer compras para toda a família toda semana",
+      "option2": "Nunca mais fazer compras para si mesmo"
+    },
+    {
+      "question": "Sempre ter que limpar a casa da sua família ou nunca mais visitá-los?",
+      "option1": "Sempre ter que limpar a casa da sua família",
+      "option2": "Nunca mais visitá-los"
+    }
+  ],
+  "Amigos": [
+    {
+      "question": "Ter que compartilhar todos os seus segredos com seus amigos ou nunca mais poder confiar neles?",
+      "option1": "Compartilhar todos os seus segredos",
+      "option2": "Nunca mais confiar neles"
+    },
+    {
+      "question": "Sempre ter que dizer a verdade para seus amigos, independentemente das consequências, ou nunca mais poder ser honesto com eles?",
+      "option1": "Sempre dizer a verdade",
+      "option2": "Nunca ser honesto"
+    },
+    {
+      "question": "Perder o contato com todos os seus amigos atuais ou nunca mais fazer novos amigos?",
+      "option1": "Perder o contato com todos os amigos atuais",
+      "option2": "Nunca mais fazer novos amigos"
+    },
+    {
+      "question": "Ter amigos que sempre discordam de você ou que concordam com tudo, mesmo quando você está errado?",
+      "option1": "Amigos que sempre discordam",
+      "option2": "Amigos que concordam com tudo"
+    },
+    {
+      "question": "Sempre ser o amigo que paga a conta ou nunca mais sair com seus amigos?",
+      "option1": "Sempre pagar a conta",
+      "option2": "Nunca mais sair com seus amigos"
+    },
+    {
+      "question": "Ter que ajudar seus amigos a se mudar todo mês ou nunca mais poder pedir ajuda a eles?",
+      "option1": "Ajudar a se mudar todo mês",
+      "option2": "Nunca mais pedir ajuda"
+    },
+    {
+      "question": "Ser o único amigo que todos procuram para conselhos ou nunca mais poder dar conselhos?",
+      "option1": "Ser o único que todos procuram",
+      "option2": "Nunca mais dar conselhos"
+    },
+    {
+      "question": "Nunca mais rir com seus amigos ou nunca mais ter conversas sérias com eles?",
+      "option1": "Nunca mais rir com seus amigos",
+      "option2": "Nunca mais ter conversas sérias"
+    },
+    {
+      "question": "Ser o amigo engraçado, mas não confiável, ou confiável, mas sem senso de humor?",
+      "option1": "Amigo engraçado, mas não confiável",
+      "option2": "Amigo confiável, mas sem humor"
+    },
+    {
+      "question": "Sempre ter que planejar todas as saídas ou nunca mais poder opinar sobre elas?",
+      "option1": "Planejar todas as saídas",
+      "option2": "Nunca mais opinar"
+    },
+    {
+      "question": "Ter que responder todas as mensagens imediatamente ou nunca mais poder responder mensagens?",
+      "option1": "Responder imediatamente",
+      "option2": "Nunca mais responder"
+    },
+    {
+      "question": "Nunca mais poder tirar fotos com seus amigos ou nunca mais aparecer em fotos com eles?",
+      "option1": "Nunca mais tirar fotos com seus amigos",
+      "option2": "Nunca mais aparecer em fotos com eles"
+    },
+    {
+      "question": "Ter um amigo que sempre chega atrasado ou que nunca aparece?",
+      "option1": "Amigo que sempre chega atrasado",
+      "option2": "Amigo que nunca aparece"
+    },
+    {
+      "question": "Sempre ser o anfitrião de todas as reuniões ou nunca mais poder participar delas?",
+      "option1": "Ser o anfitrião de todas as reuniões",
+      "option2": "Nunca mais participar delas"
+    },
+    {
+      "question": "Nunca mais poder dar presentes aos seus amigos ou nunca mais receber presentes deles?",
+      "option1": "Nunca mais dar presentes",
+      "option2": "Nunca mais receber presentes"
+    },
+    {
+      "question": "Ter que ouvir todos os problemas dos seus amigos ou nunca mais poder desabafar com eles?",
+      "option1": "Ouvir todos os problemas deles",
+      "option2": "Nunca mais desabafar com eles"
+    },
+    {
+      "question": "Sempre ter que emprestar dinheiro aos seus amigos ou nunca mais poder pedir ajuda financeira a eles?",
+      "option1": "Sempre emprestar dinheiro",
+      "option2": "Nunca mais pedir ajuda financeira"
+    },
+    {
+      "question": "Ser o amigo que todos esquecem de convidar ou ser o amigo que ninguém esquece de criticar?",
+      "option1": "O amigo esquecido nos convites",
+      "option2": "O amigo sempre criticado"
+    },
+    {
+      "question": "Sempre ser a pessoa que organiza todas as viagens ou nunca mais poder viajar com seus amigos?",
+      "option1": "Organizar todas as viagens",
+      "option2": "Nunca mais viajar com eles"
+    },
+    {
+      "question": "Ter que morar com seu melhor amigo para sempre ou nunca mais poder vê-lo?",
+      "option1": "Morar com o melhor amigo para sempre",
+      "option2": "Nunca mais vê-lo"
+    },
+    {
+      "question": "Nunca mais poder discutir com seus amigos ou nunca mais poder elogiá-los?",
+      "option1": "Nunca mais discutir com eles",
+      "option2": "Nunca mais elogiá-los"
+    },
+    {
+      "question": "Sempre ser a pessoa que paga a viagem ou nunca mais viajar com seus amigos?",
+      "option1": "Sempre pagar a viagem",
+      "option2": "Nunca mais viajar com seus amigos"
+    },
+    {
+      "question": "Ter um amigo que te critica na frente de todos ou um que fala mal de você pelas costas?",
+      "option1": "Um amigo que te critica na frente de todos",
+      "option2": "Um que fala pelas costas"
+    },
+    {
+      "question": "Nunca mais poder compartilhar memes com seus amigos ou nunca mais receber memes deles?",
+      "option1": "Nunca mais compartilhar memes",
+      "option2": "Nunca mais receber memes"
+    },
+    {
+      "question": "Ter um amigo que esquece todos os seus aniversários ou um que sempre dá presentes ruins?",
+      "option1": "Um amigo que esquece os aniversários",
+      "option2": "Um que dá presentes ruins"
+    },
+    {
+      "question": "Sempre sair com seus amigos para lugares que você não gosta ou nunca mais sair com eles?",
+      "option1": "Sair para lugares que não gosta",
+      "option2": "Nunca mais sair com eles"
+    },
+    {
+      "question": "Sempre ter que pedir desculpas mesmo quando está certo ou nunca mais poder pedir desculpas?",
+      "option1": "Pedir desculpas mesmo estando certo",
+      "option2": "Nunca mais pedir desculpas"
+    },
+    {
+      "question": "Sempre ter que ajudar seus amigos nas mudanças ou nunca mais poder visitá-los em casa?",
+      "option1": "Sempre ajudar nas mudanças",
+      "option2": "Nunca mais visitá-los em casa"
+    },
+    {
+      "question": "Nunca mais receber conselhos dos seus amigos ou nunca mais poder dar conselhos a eles?",
+      "option1": "Nunca mais receber conselhos",
+      "option2": "Nunca mais dar conselhos"
+    },
+    {
+      "question": "Sempre ser o amigo que todo mundo esquece ou o que ninguém respeita?",
+      "option1": "O amigo que todo mundo esquece",
+      "option2": "O que ninguém respeita"
+    },
+    {
+      "question": "Nunca mais poder comemorar conquistas com seus amigos ou nunca mais contar problemas para eles?",
+      "option1": "Nunca mais comemorar conquistas",
+      "option2": "Nunca mais contar problemas"
+    },
+    {
+      "question": "Ter um amigo que é extremamente competitivo ou um que nunca tenta nada?",
+      "option1": "Amigo extremamente competitivo",
+      "option2": "Amigo que nunca tenta nada"
+    },
+    {
+      "question": "Sempre ter que dividir a conta com seus amigos, mesmo sem consumir nada, ou nunca mais comer fora com eles?",
+      "option1": "Dividir a conta sem consumir",
+      "option2": "Nunca mais comer fora com eles"
+    },
+    {
+      "question": "Ser o único amigo que nunca se atrasa ou o que sempre se atrasa?",
+      "option1": "O único que nunca se atrasa",
+      "option2": "O que sempre se atrasa"
+    },
+    {
+      "question": "Ter um amigo que sempre precisa de ajuda ou um que nunca te ajuda?",
+      "option1": "Amigo que sempre precisa de ajuda",
+      "option2": "Amigo que nunca ajuda"
+    },
+    {
+      "question": "Sempre ser o amigo que organiza aniversários ou o que nunca é convidado?",
+      "option1": "Organizar aniversários",
+      "option2": "Nunca ser convidado"
+    },
+    {
+      "question": "Nunca mais sair para festas com seus amigos ou nunca mais fazer viagens com eles?",
+      "option1": "Nunca mais ir a festas",
+      "option2": "Nunca mais fazer viagens"
+    },
+    {
+      "question": "Sempre ter que escutar as mesmas histórias dos seus amigos ou nunca mais poder contar as suas?",
+      "option1": "Escutar as mesmas histórias",
+      "option2": "Nunca mais contar as suas"
+    },
+    {
+      "question": "Nunca mais rir com seus amigos ou nunca mais poder chorar com eles?",
+      "option1": "Nunca mais rir com eles",
+      "option2": "Nunca mais chorar com eles"
+    },
+    {
+      "question": "Ter que acompanhar seus amigos em todas as aventuras ou nunca mais ser convidado?",
+      "option1": "Acompanhar em todas as aventuras",
+      "option2": "Nunca mais ser convidado"
+    },
+    {
+      "question": "Ter que ouvir música ruim nas festas dos seus amigos ou nunca mais ir a festas com eles?",
+      "option1": "Ouvir música ruim nas festas",
+      "option2": "Nunca mais ir a festas com eles"
+    },
+    {
+      "question": "Sempre ter que falar primeiro ou nunca mais poder iniciar uma conversa com seus amigos?",
+      "option1": "Sempre falar primeiro",
+      "option2": "Nunca mais iniciar uma conversa"
+    },
+    {
+      "question": "Ter que lembrar de todos os aniversários dos seus amigos ou nunca mais comemorar o seu?",
+      "option1": "Lembrar de todos os aniversários",
+      "option2": "Nunca mais comemorar o seu"
+    },
+    {
+      "question": "Sempre ter que pedir desculpas por algo que seus amigos fizeram ou nunca mais defendê-los?",
+      "option1": "Pedir desculpas pelos amigos",
+      "option2": "Nunca mais defendê-los"
+    },
+    {
+      "question": "Ter que abandonar seus amigos em uma emergência ou nunca mais poder ajudá-los?",
+      "option1": "Abandonar na emergência",
+      "option2": "Nunca mais ajudar"
+    },
+    {
+      "question": "Ser o amigo que sempre organiza as viagens ou o que nunca viaja?",
+      "option1": "Organizar as viagens",
+      "option2": "Nunca viajar"
+    },
+    {
+      "question": "Nunca mais poder comemorar conquistas com seus amigos ou nunca mais contar problemas para eles?",
+      "option1": "Nunca mais poder comemorar conquistas com seus amigos",
+      "option2": "Nunca mais contar problemas para eles"
+    },
+    {
+      "question": "Ter um amigo que é extremamente competitivo ou um que nunca tenta nada?",
+      "option1": "Ter um amigo que é extremamente competitivo",
+      "option2": "Um que nunca tenta nada"
+    },
+    {
+      "question": "Sempre ter que dividir a conta com seus amigos, mesmo sem consumir nada, ou nunca mais comer fora com eles?",
+      "option1": "Sempre ter que dividir a conta com seus amigos, mesmo sem consumir nada",
+      "option2": "Nunca mais comer fora com eles"
+    },
+    {
+      "question": "Ser o único amigo que nunca se atrasa ou o que sempre se atrasa?",
+      "option1": "Ser o único amigo que nunca se atrasa",
+      "option2": "O que sempre se atrasa"
+    },
+    {
+      "question": "Ter um amigo que sempre precisa de ajuda ou um que nunca te ajuda?",
+      "option1": "Ter um amigo que sempre precisa de ajuda",
+      "option2": "Um que nunca te ajuda"
+    },
+    {
+      "question": "Sempre ser o amigo que organiza aniversários ou o que nunca é convidado?",
+      "option1": "Sempre ser o amigo que organiza aniversários",
+      "option2": "O que nunca é convidado"
+    },
+    {
+      "question": "Nunca mais sair para festas com seus amigos ou nunca mais fazer viagens com eles?",
+      "option1": "Nunca mais sair para festas com seus amigos",
+      "option2": "Nunca mais fazer viagens com eles"
+    },
+    {
+      "question": "Sempre ter que escutar as mesmas histórias dos seus amigos ou nunca mais poder contar as suas?",
+      "option1": "Sempre ter que escutar as mesmas histórias dos seus amigos",
+      "option2": "Nunca mais poder contar as suas"
+    },
+    {
+      "question": "Nunca mais rir com seus amigos ou nunca mais poder chorar com eles?",
+      "option1": "Nunca mais rir com seus amigos",
+      "option2": "Nunca mais poder chorar com eles"
+    },
+    {
+      "question": "Ter que acompanhar seus amigos em todas as aventuras ou nunca mais ser convidado?",
+      "option1": "Ter que acompanhar seus amigos em todas as aventuras",
+      "option2": "Nunca mais ser convidado"
+    },
+    {
+      "question": "Ter que ouvir música ruim nas festas dos seus amigos ou nunca mais ir a festas com eles?",
+      "option1": "Ter que ouvir música ruim nas festas dos seus amigos",
+      "option2": "Nunca mais ir a festas com eles"
+    },
+    {
+      "question": "Sempre ter que falar primeiro ou nunca mais poder iniciar uma conversa com seus amigos?",
+      "option1": "Sempre ter que falar primeiro",
+      "option2": "Nunca mais poder iniciar uma conversa com seus amigos"
+    },
+    {
+      "question": "Ter que lembrar de todos os aniversários dos seus amigos ou nunca mais comemorar o seu?",
+      "option1": "Ter que lembrar de todos os aniversários dos seus amigos",
+      "option2": "Nunca mais comemorar o seu"
+    },
+    {
+      "question": "Sempre ter que pedir desculpas por algo que seus amigos fizeram ou nunca mais defendê-los?",
+      "option1": "Sempre ter que pedir desculpas por algo que seus amigos fizeram",
+      "option2": "Nunca mais defendê-los"
+    },
+    {
+      "question": "Ter que abandonar seus amigos em uma emergência ou nunca mais poder ajudá-los?",
+      "option1": "Ter que abandonar seus amigos em uma emergência",
+      "option2": "Nunca mais poder ajudá-los"
+    },
+    {
+      "question": "Ser o amigo que sempre organiza as viagens ou o que nunca viaja?",
+      "option1": "Ser o amigo que sempre organiza as viagens",
+      "option2": "O que nunca viaja"
+    },
+    {
+      "question": "Sempre ser o amigo que ouve conselhos, mas nunca os segue, ou o que nunca recebe conselhos?",
+      "option1": "Sempre ser o amigo que ouve conselhos, mas nunca os segue",
+      "option2": "O que nunca recebe conselhos"
+    },
+    {
+      "question": "Ter que concordar com tudo o que seus amigos dizem ou nunca mais poder concordar com eles?",
+      "option1": "Ter que concordar com tudo o que seus amigos dizem",
+      "option2": "Nunca mais poder concordar com eles"
+    },
+    {
+      "question": "Ter um amigo que sempre reclama de tudo ou um que nunca fala o que sente?",
+      "option1": "Ter um amigo que sempre reclama de tudo",
+      "option2": "Um que nunca fala o que sente"
+    },
+    {
+      "question": "Ter amigos que sempre te esquecem em momentos importantes ou que só lembram de você em momentos ruins?",
+      "option1": "Ter amigos que sempre te esquecem em momentos importantes",
+      "option2": "Que só lembram de você em momentos ruins"
+    }
+  ],
+  "Vida Profissional": [
+    {
+      "question": "Ter um emprego dos sonhos sem salário ou um trabalho que odeia com um salário milionário?",
+      "option1": "Ter um emprego dos sonhos sem salário",
+      "option2": "Um trabalho que odeia com um salário milionário"
+    },
+    {
+      "question": "Trabalhar 80 horas por semana e se aposentar em 10 anos ou trabalhar 20 horas por semana para sempre?",
+      "option1": "Trabalhar 80 horas por semana e se aposentar em 10 anos",
+      "option2": "Trabalhar 20 horas por semana para sempre"
+    },
+    {
+      "question": "Nunca mais poder tirar férias ou nunca mais receber uma promoção?",
+      "option1": "Nunca mais poder tirar férias",
+      "option2": "Nunca mais receber uma promoção"
+    },
+    {
+      "question": "Ter um chefe extremamente exigente ou colegas de trabalho insuportáveis?",
+      "option1": "Ter um chefe extremamente exigente",
+      "option2": "Colegas de trabalho insuportáveis"
+    },
+    {
+      "question": "Trabalhar remotamente sem contato com colegas ou sempre trabalhar em um escritório lotado?",
+      "option1": "Trabalhar remotamente sem contato com colegas",
+      "option2": "Sempre trabalhar em um escritório lotado"
+    },
+    {
+      "question": "Nunca mais aprender nada novo no trabalho ou sempre estar aprendendo algo extremamente difícil?",
+      "option1": "Nunca mais aprender nada novo no trabalho",
+      "option2": "Sempre estar aprendendo algo extremamente difícil"
+    },
+    {
+      "question": "Ter estabilidade em um emprego monótono ou riscos constantes em um trabalho emocionante?",
+      "option1": "Ter estabilidade em um emprego monótono",
+      "option2": "Riscos constantes em um trabalho emocionante"
+    },
+    {
+      "question": "Ganhar um salário fixo baixo ou um salário variável que pode ser muito alto ou zero?",
+      "option1": "Ganhar um salário fixo baixo",
+      "option2": "Um salário variável que pode ser muito alto ou zero"
+    },
+    {
+      "question": "Trabalhar em uma empresa renomada com alta pressão ou em uma desconhecida com menos responsabilidades?",
+      "option1": "Trabalhar em uma empresa renomada com alta pressão",
+      "option2": "Em uma desconhecida com menos responsabilidades"
+    },
+    {
+      "question": "Ter benefícios incríveis sem aumento salarial ou aumento salarial sem benefícios?",
+      "option1": "Ter benefícios incríveis sem aumento salarial",
+      "option2": "Aumento salarial sem benefícios"
+    },
+    {
+      "question": "Sempre trabalhar em projetos curtos e intensos ou em projetos longos e cansativos?",
+      "option1": "Sempre trabalhar em projetos curtos e intensos",
+      "option2": "Em projetos longos e cansativos"
+    },
+    {
+      "question": "Nunca mais participar de reuniões ou ter reuniões constantes que duram horas?",
+      "option1": "Nunca mais participar de reuniões",
+      "option2": "Ter reuniões constantes que duram horas"
+    },
+    {
+      "question": "Trabalhar sem reconhecimento ou sempre ser criticado mesmo quando faz algo certo?",
+      "option1": "Trabalhar sem reconhecimento",
+      "option2": "Sempre ser criticado mesmo quando faz algo certo"
+    },
+    {
+      "question": "Trabalhar com um time talentoso, mas desmotivado, ou com um time inexperiente, mas entusiasmado?",
+      "option1": "Trabalhar com um time talentoso, mas desmotivado",
+      "option2": "Com um time inexperiente, mas entusiasmado"
+    },
+    {
+      "question": "Ser promovido sem estar preparado ou nunca mais ser promovido?",
+      "option1": "Ser promovido sem estar preparado",
+      "option2": "Nunca mais ser promovido"
+    },
+    {
+      "question": "Nunca mais poder reclamar sobre trabalho ou ser conhecido como alguém que só reclama?",
+      "option1": "Nunca mais poder reclamar sobre trabalho",
+      "option2": "Ser conhecido como alguém que só reclama"
+    },
+    {
+      "question": "Trabalhar em algo físico e exaustivo ou em algo mentalmente desgastante?",
+      "option1": "Trabalhar em algo físico e exaustivo",
+      "option2": "Em algo mentalmente desgastante"
+    },
+    {
+      "question": "Ser obrigado a trocar de carreira a cada 5 anos ou nunca poder mudar de área?",
+      "option1": "Ser obrigado a trocar de carreira a cada 5 anos",
+      "option2": "Nunca poder mudar de área"
+    },
+    {
+      "question": "Sempre trabalhar em um ambiente barulhento ou em um ambiente extremamente silencioso?",
+      "option1": "Sempre trabalhar em um ambiente barulhento",
+      "option2": "Em um ambiente extremamente silencioso"
+    },
+    {
+      "question": "Nunca mais receber feedback ou sempre receber críticas negativas?",
+      "option1": "Nunca mais receber feedback",
+      "option2": "Sempre receber críticas negativas"
+    },
+    {
+      "question": "Ter que aceitar qualquer trabalho que aparece ou nunca mais poder trabalhar?",
+      "option1": "Ter que aceitar qualquer trabalho que aparece",
+      "option2": "Nunca mais poder trabalhar"
+    },
+    {
+      "question": "Ter que se mudar de país para um emprego incrível ou ficar no seu país com um trabalho comum?",
+      "option1": "Ter que se mudar de país para um emprego incrível",
+      "option2": "Ficar no seu país com um trabalho comum"
+    },
+    {
+      "question": "Trabalhar todos os finais de semana ou nunca mais poder tirar uma folga durante a semana?",
+      "option1": "Trabalhar todos os finais de semana",
+      "option2": "Nunca mais poder tirar uma folga durante a semana"
+    },
+    {
+      "question": "Ser extremamente bem pago, mas odiado pelos colegas ou ser querido por todos, mas mal remunerado?",
+      "option1": "Ser extremamente bem pago, mas odiado pelos colegas",
+      "option2": "Ser querido por todos, mas mal remunerado"
+    },
+    {
+      "question": "Sempre ter que liderar projetos ou nunca poder liderar nada?",
+      "option1": "Sempre ter que liderar projetos",
+      "option2": "Nunca poder liderar nada"
+    },
+    {
+      "question": "Nunca mais poder usar tecnologias modernas ou sempre ter que aprender tecnologias novas e difíceis?",
+      "option1": "Nunca mais poder usar tecnologias modernas",
+      "option2": "Sempre ter que aprender tecnologias novas e difíceis"
+    },
+    {
+      "question": "Ter que trabalhar sozinho para sempre ou sempre em equipe?",
+      "option1": "Ter que trabalhar sozinho para sempre",
+      "option2": "Sempre em equipe"
+    },
+    {
+      "question": "Nunca mais poder trabalhar remotamente ou nunca mais poder trabalhar presencialmente?",
+      "option1": "Nunca mais poder trabalhar remotamente",
+      "option2": "Nunca mais poder trabalhar presencialmente"
+    },
+    {
+      "question": "Ter que se adaptar a um novo emprego a cada ano ou nunca poder mudar de emprego?",
+      "option1": "Ter que se adaptar a um novo emprego a cada ano",
+      "option2": "Nunca poder mudar de emprego"
+    },
+    {
+      "question": "Sempre ter que trabalhar de madrugada ou começar às 4h da manhã?",
+      "option1": "Sempre ter que trabalhar de madrugada",
+      "option2": "Começar às 4h da manhã"
+    },
+    {
+      "question": "Nunca mais poder usar um computador no trabalho ou nunca mais poder usar o celular?",
+      "option1": "Nunca mais poder usar um computador no trabalho",
+      "option2": "Nunca mais poder usar o celular"
+    },
+    {
+      "question": "Ter que aprender algo novo toda semana ou nunca mais aprender nada?",
+      "option1": "Ter que aprender algo novo toda semana",
+      "option2": "Nunca mais aprender nada"
+    },
+    {
+      "question": "Ser demitido por algo que você não fez ou nunca ser promovido por algo que você fez?",
+      "option1": "Ser demitido por algo que você não fez",
+      "option2": "Nunca ser promovido por algo que você fez"
+    },
+    {
+      "question": "Ter que explicar seu trabalho todos os dias ou nunca mais falar sobre ele?",
+      "option1": "Ter que explicar seu trabalho todos os dias",
+      "option2": "Nunca mais falar sobre ele"
+    },
+    {
+      "question": "Sempre ter um chefe que não entende seu trabalho ou colegas que não fazem sua parte?",
+      "option1": "Sempre ter um chefe que não entende seu trabalho",
+      "option2": "Colegas que não fazem sua parte"
+    },
+    {
+      "question": "Sempre lidar com prazos impossíveis ou nunca mais ter prazos para cumprir?",
+      "option1": "Sempre lidar com prazos impossíveis",
+      "option2": "Nunca mais ter prazos para cumprir"
+    },
+    {
+      "question": "Sempre ter que trabalhar fora da sua zona de conforto ou nunca mais sair dela?",
+      "option1": "Sempre ter que trabalhar fora da sua zona de conforto",
+      "option2": "Nunca mais sair dela"
+    },
+    {
+      "question": "Ter que revisar todo o trabalho dos outros ou sempre ter seu trabalho revisado?",
+      "option1": "Ter que revisar todo o trabalho dos outros",
+      "option2": "Sempre ter seu trabalho revisado"
+    },
+    {
+      "question": "Sempre trabalhar sob supervisão direta ou nunca mais receber orientações?",
+      "option1": "Sempre trabalhar sob supervisão direta",
+      "option2": "Nunca mais receber orientações"
+    },
+    {
+      "question": "Ser conhecido como o mais criativo do time ou o mais produtivo?",
+      "option1": "Ser conhecido como o mais criativo do time",
+      "option2": "O mais produtivo"
+    },
+    {
+      "question": "Nunca mais trabalhar em algo que gosta ou sempre trabalhar em algo que odeia?",
+      "option1": "Nunca mais trabalhar em algo que gosta",
+      "option2": "Sempre trabalhar em algo que odeia"
+    },
+    {
+      "question": "Ter que usar uniforme desconfortável todos os dias ou sempre trabalhar com roupas formais?",
+      "option1": "Ter que usar uniforme desconfortável todos os dias",
+      "option2": "Sempre trabalhar com roupas formais"
+    },
+    {
+      "question": "Nunca mais participar de eventos profissionais ou ser obrigado a participar de todos?",
+      "option1": "Nunca mais participar de eventos profissionais",
+      "option2": "Ser obrigado a participar de todos"
+    },
+    {
+      "question": "Ter um trabalho repetitivo e fácil ou desafiador e estressante?",
+      "option1": "Ter um trabalho repetitivo e fácil",
+      "option2": "Desafiador e estressante"
+    },
+    {
+      "question": "Sempre lidar com tecnologia desatualizada ou nunca poder usar novas ferramentas?",
+      "option1": "Sempre lidar com tecnologia desatualizada",
+      "option2": "Nunca poder usar novas ferramentas"
+    },
+    {
+      "question": "Ser sempre o último a sair do trabalho ou o primeiro a chegar?",
+      "option1": "Ser sempre o último a sair do trabalho",
+      "option2": "O primeiro a chegar"
+    },
+    {
+      "question": "Trabalhar em algo criativo, mas instável, ou algo estável, mas sem criatividade?",
+      "option1": "Trabalhar em algo criativo, mas instável",
+      "option2": "Algo estável, mas sem criatividade"
+    }
+  ],
+  "Viagens": [
+    {
+      "question": "Viajar para sempre, mas nunca voltar para casa ou nunca mais sair da sua cidade?",
+      "option1": "Viajar para sempre, mas nunca voltar para casa",
+      "option2": "Nunca mais sair da sua cidade"
+    },
+    {
+      "question": "Sempre viajar de classe econômica ou nunca mais viajar de avião?",
+      "option1": "Sempre viajar de classe econômica",
+      "option2": "Nunca mais viajar de avião"
+    },
+    {
+      "question": "Visitar um único país por um ano ou visitar 50 países em 50 dias?",
+      "option1": "Visitar um único país por um ano",
+      "option2": "Visitar 50 países em 50 dias"
+    },
+    {
+      "question": "Viajar apenas para locais quentes ou apenas para locais frios?",
+      "option1": "Viajar apenas para locais quentes",
+      "option2": "Viajar apenas para locais frios"
+    },
+    {
+      "question": "Nunca mais viajar para praias ou nunca mais viajar para montanhas?",
+      "option1": "Nunca mais viajar para praias",
+      "option2": "Nunca mais viajar para montanhas"
+    },
+    {
+      "question": "Sempre viajar com bagagem muito pesada ou nunca mais despachar bagagem?",
+      "option1": "Sempre viajar com bagagem muito pesada",
+      "option2": "Nunca mais despachar bagagem"
+    },
+    {
+      "question": "Viajar sozinho para destinos incríveis ou com amigos para destinos medíocres?",
+      "option1": "Viajar sozinho para destinos incríveis",
+      "option2": "Viajar com amigos para destinos medíocres"
+    },
+    {
+      "question": "Nunca mais fotografar suas viagens ou nunca mais lembrar delas?",
+      "option1": "Nunca mais fotografar suas viagens",
+      "option2": "Nunca mais lembrar delas"
+    },
+    {
+      "question": "Ter todas as passagens pagas ou todas as hospedagens pagas?",
+      "option1": "Ter todas as passagens pagas",
+      "option2": "Ter todas as hospedagens pagas"
+    },
+    {
+      "question": "Sempre viajar com guias turísticos ou sempre viajar sozinho sem nenhuma informação prévia?",
+      "option1": "Sempre viajar com guias turísticos",
+      "option2": "Sempre viajar sozinho sem nenhuma informação prévia"
+    },
+    {
+      "question": "Sempre viajar de trem lento ou de ônibus desconfortável?",
+      "option1": "Sempre viajar de trem lento",
+      "option2": "Sempre viajar de ônibus desconfortável"
+    },
+    {
+      "question": "Explorar apenas locais históricos ou apenas destinos modernos?",
+      "option1": "Explorar apenas locais históricos",
+      "option2": "Explorar apenas destinos modernos"
+    },
+    {
+      "question": "Viajar apenas durante a alta temporada ou nunca mais viajar durante feriados?",
+      "option1": "Viajar apenas durante a alta temporada",
+      "option2": "Nunca mais viajar durante feriados"
+    },
+    {
+      "question": "Nunca mais visitar o mesmo lugar ou viajar apenas para um único lugar?",
+      "option1": "Nunca mais visitar o mesmo lugar",
+      "option2": "Viajar apenas para um único lugar"
+    },
+    {
+      "question": "Viajar para a lua ou para o fundo do oceano?",
+      "option1": "Viajar para a lua",
+      "option2": "Viajar para o fundo do oceano"
+    },
+    {
+      "question": "Sempre viajar com um orçamento apertado ou nunca mais viajar?",
+      "option1": "Sempre viajar com um orçamento apertado",
+      "option2": "Nunca mais viajar"
+    },
+    {
+      "question": "Ter que aprender a língua local antes de viajar ou nunca mais viajar para lugares com língua diferente?",
+      "option1": "Ter que aprender a língua local antes de viajar",
+      "option2": "Nunca mais viajar para lugares com língua diferente"
+    },
+    {
+      "question": "Viajar apenas para lugares famosos ou para lugares completamente desconhecidos?",
+      "option1": "Viajar apenas para lugares famosos",
+      "option2": "Viajar para lugares completamente desconhecidos"
+    },
+    {
+      "question": "Sempre viajar com pouco planejamento ou nunca mais viajar espontaneamente?",
+      "option1": "Sempre viajar com pouco planejamento",
+      "option2": "Nunca mais viajar espontaneamente"
+    },
+    {
+      "question": "Ficar em hotéis de luxo sem experiências culturais ou em hospedagens simples com imersão total na cultura?",
+      "option1": "Ficar em hotéis de luxo sem experiências culturais",
+      "option2": "Ficar em hospedagens simples com imersão total na cultura"
+    },
+    {
+      "question": "Viajar apenas por terra ou nunca mais viajar por terra?",
+      "option1": "Viajar apenas por terra",
+      "option2": "Nunca mais viajar por terra"
+    },
+    {
+      "question": "Sempre viajar de madrugada ou sempre viajar durante o dia?",
+      "option1": "Sempre viajar de madrugada",
+      "option2": "Sempre viajar durante o dia"
+    },
+    {
+      "question": "Visitar apenas países ricos ou apenas países em desenvolvimento?",
+      "option1": "Visitar apenas países ricos",
+      "option2": "Visitar apenas países em desenvolvimento"
+    },
+    {
+      "question": "Fazer apenas viagens curtas e intensas ou longas e relaxantes?",
+      "option1": "Fazer apenas viagens curtas e intensas",
+      "option2": "Fazer viagens longas e relaxantes"
+    },
+    {
+      "question": "Viajar com um grupo grande que você não conhece ou sozinho em um lugar isolado?",
+      "option1": "Viajar com um grupo grande que você não conhece",
+      "option2": "Viajar sozinho em um lugar isolado"
+    },
+    {
+      "question": "Ter sempre a melhor comida local ou sempre as melhores vistas?",
+      "option1": "Ter sempre a melhor comida local",
+      "option2": "Ter sempre as melhores vistas"
+    },
+    {
+      "question": "Nunca mais tirar férias longas ou nunca mais fazer viagens curtas?",
+      "option1": "Nunca mais tirar férias longas",
+      "option2": "Nunca mais fazer viagens curtas"
+    },
+    {
+      "question": "Sempre viajar para destinos frios ou nunca mais ver neve?",
+      "option1": "Sempre viajar para destinos frios",
+      "option2": "Nunca mais ver neve"
+    },
+    {
+      "question": "Viajar com muita bagagem ou sem nenhuma bagagem?",
+      "option1": "Viajar com muita bagagem",
+      "option2": "Viajar sem nenhuma bagagem"
+    },
+    {
+      "question": "Sempre viajar de navio ou nunca mais viajar pelo mar?",
+      "option1": "Sempre viajar de navio",
+      "option2": "Nunca mais viajar pelo mar"
+    },
+    {
+      "question": "Viajar apenas para lugares próximos ou para lugares distantes?",
+      "option1": "Viajar apenas para lugares próximos",
+      "option2": "Viajar para lugares distantes"
+    },
+    {
+      "question": "Nunca mais viajar para o exterior ou nunca mais viajar pelo seu país?",
+      "option1": "Nunca mais viajar para o exterior",
+      "option2": "Nunca mais viajar pelo seu país"
+    },
+    {
+      "question": "Sempre viajar de carro com amigos ou de avião sozinho?",
+      "option1": "Sempre viajar de carro com amigos",
+      "option2": "Sempre viajar de avião sozinho"
+    },
+    {
+      "question": "Viajar sempre em voos diretos ou sempre fazer escalas longas?",
+      "option1": "Viajar sempre em voos diretos",
+      "option2": "Sempre fazer escalas longas"
+    },
+    {
+      "question": "Nunca mais visitar cidades ou nunca mais visitar áreas rurais?",
+      "option1": "Nunca mais visitar cidades",
+      "option2": "Nunca mais visitar áreas rurais"
+    },
+    {
+      "question": "Sempre viajar com chuva ou nunca mais ver um dia ensolarado durante as viagens?",
+      "option1": "Sempre viajar com chuva",
+      "option2": "Nunca mais ver um dia ensolarado durante as viagens"
+    },
+    {
+      "question": "Viajar apenas com transporte público ou sempre alugar um carro?",
+      "option1": "Viajar apenas com transporte público",
+      "option2": "Sempre alugar um carro"
+    },
+    {
+      "question": "Sempre viajar com pessoas desconhecidas ou nunca mais viajar com amigos?",
+      "option1": "Sempre viajar com pessoas desconhecidas",
+      "option2": "Nunca mais viajar com amigos"
+    },
+    {
+      "question": "Sempre visitar museus em todas as viagens ou nunca mais visitar um museu?",
+      "option1": "Sempre visitar museus em todas as viagens",
+      "option2": "Nunca mais visitar um museu"
+    },
+    {
+      "question": "Sempre ter voos atrasados ou perder uma viagem por ano?",
+      "option1": "Sempre ter voos atrasados",
+      "option2": "Perder uma viagem por ano"
+    },
+    {
+      "question": "Sempre se hospedar em lugares lotados ou em lugares completamente isolados?",
+      "option1": "Sempre se hospedar em lugares lotados",
+      "option2": "Sempre se hospedar em lugares completamente isolados"
+    },
+    {
+      "question": "Viajar com pouco dinheiro e muitas experiências ou com muito dinheiro e poucas aventuras?",
+      "option1": "Viajar com pouco dinheiro e muitas experiências",
+      "option2": "Viajar com muito dinheiro e poucas aventuras"
+    },
+    {
+      "question": "Ter sempre a melhor comida durante as viagens ou sempre as melhores acomodações?",
+      "option1": "Ter sempre a melhor comida durante as viagens",
+      "option2": "Ter sempre as melhores acomodações"
+    },
+    {
+      "question": "Sempre viajar com atrasos no transporte ou com hotéis cancelados?",
+      "option1": "Sempre viajar com atrasos no transporte",
+      "option2": "Sempre viajar com hotéis cancelados"
+    },
+    {
+      "question": "Viajar apenas para grandes eventos ou apenas para lugares tranquilos?",
+      "option1": "Viajar apenas para grandes eventos",
+      "option2": "Viajar apenas para lugares tranquilos"
+    },
+    {
+      "question": "Viajar sempre com amigos barulhentos ou com amigos muito reservados?",
+      "option1": "Viajar sempre com amigos barulhentos",
+      "option2": "Viajar com amigos muito reservados"
+    },
+    {
+      "question": "Sempre viajar com excesso de calor ou de frio?",
+      "option1": "Sempre viajar com excesso de calor",
+      "option2": "Sempre viajar com excesso de frio"
+    },
+    {
+      "question": "Nunca mais viajar durante feriados ou nunca mais viajar fora de temporada?",
+      "option1": "Nunca mais viajar durante feriados",
+      "option2": "Nunca mais viajar fora de temporada"
+    }
+  ],
+  "Comida": [
+    {
+      "question": "Nunca mais comer chocolate ou nunca mais comer pizza?",
+      "option1": "Nunca mais comer chocolate",
+      "option2": "Nunca mais comer pizza"
+    },
+    {
+      "question": "Comer apenas comida doce ou apenas comida salgada para sempre?",
+      "option1": "Comer apenas comida doce",
+      "option2": "Comer apenas comida salgada para sempre"
+    },
+    {
+      "question": "Nunca mais beber café ou nunca mais beber chá?",
+      "option1": "Nunca mais beber café",
+      "option2": "Nunca mais beber chá"
+    },
+    {
+      "question": "Sempre comer alimentos muito apimentados ou alimentos sem nenhum sabor?",
+      "option1": "Sempre comer alimentos muito apimentados",
+      "option2": "Sempre comer alimentos sem nenhum sabor"
+    },
+    {
+      "question": "Nunca mais comer pão ou nunca mais comer arroz?",
+      "option1": "Nunca mais comer pão",
+      "option2": "Nunca mais comer arroz"
+    },
+    {
+      "question": "Comer sobremesa antes de toda refeição ou nunca mais comer sobremesa?",
+      "option1": "Comer sobremesa antes de toda refeição",
+      "option2": "Nunca mais comer sobremesa"
+    },
+    {
+      "question": "Comer apenas fast food ou apenas comida caseira para sempre?",
+      "option1": "Comer apenas fast food",
+      "option2": "Comer apenas comida caseira para sempre"
+    },
+    {
+      "question": "Nunca mais usar sal ou nunca mais usar açúcar?",
+      "option1": "Nunca mais usar sal",
+      "option2": "Nunca mais usar açúcar"
+    },
+    {
+      "question": "Sempre comer frio ou sempre comer muito quente?",
+      "option1": "Sempre comer frio",
+      "option2": "Sempre comer muito quente"
+    },
+    {
+      "question": "Comer apenas alimentos crus ou apenas alimentos fritos?",
+      "option1": "Comer apenas alimentos crus",
+      "option2": "Comer apenas alimentos fritos"
+    },
+    {
+      "question": "Nunca mais comer carne ou nunca mais comer laticínios?",
+      "option1": "Nunca mais comer carne",
+      "option2": "Nunca mais comer laticínios"
+    },
+    {
+      "question": "Sempre beber refrigerante ou nunca mais beber refrigerante?",
+      "option1": "Sempre beber refrigerante",
+      "option2": "Nunca mais beber refrigerante"
+    },
+    {
+      "question": "Nunca mais comer frutas ou nunca mais comer vegetais?",
+      "option1": "Nunca mais comer frutas",
+      "option2": "Nunca mais comer vegetais"
+    },
+    {
+      "question": "Comer apenas comida congelada ou nunca mais usar um freezer?",
+      "option1": "Comer apenas comida congelada",
+      "option2": "Nunca mais usar um freezer"
+    },
+    {
+      "question": "Ter que comer sem talheres ou sem pratos?",
+      "option1": "Ter que comer sem talheres",
+      "option2": "Ter que comer sem pratos"
+    },
+    {
+      "question": "Nunca mais comer sushi ou nunca mais comer hambúrguer?",
+      "option1": "Nunca mais comer sushi",
+      "option2": "Nunca mais comer hambúrguer"
+    },
+    {
+      "question": "Sempre comer algo que você odeia ou nunca mais comer algo que você ama?",
+      "option1": "Sempre comer algo que você odeia",
+      "option2": "Nunca mais comer algo que você ama"
+    },
+    {
+      "question": "Comer apenas alimentos sem tempero ou alimentos extremamente temperados?",
+      "option1": "Comer apenas alimentos sem tempero",
+      "option2": "Comer alimentos extremamente temperados"
+    },
+    {
+      "question": "Nunca mais comer queijo ou nunca mais comer chocolate?",
+      "option1": "Nunca mais comer queijo",
+      "option2": "Nunca mais comer chocolate"
+    },
+    {
+      "question": "Comer apenas macarrão ou apenas pizza para sempre?",
+      "option1": "Comer apenas macarrão",
+      "option2": "Comer apenas pizza para sempre"
+    },
+    {
+      "question": "Nunca mais comer algo crocante ou nunca mais comer algo cremoso?",
+      "option1": "Nunca mais comer algo crocante",
+      "option2": "Nunca mais comer algo cremoso"
+    },
+    {
+      "question": "Ter que beber apenas água ou apenas suco para sempre?",
+      "option1": "Ter que beber apenas água",
+      "option2": "Ter que beber apenas suco para sempre"
+    },
+    {
+      "question": "Nunca mais comer sobremesas geladas ou nunca mais comer sobremesas quentes?",
+      "option1": "Nunca mais comer sobremesas geladas",
+      "option2": "Nunca mais comer sobremesas quentes"
+    },
+    {
+      "question": "Sempre ter que comer em silêncio absoluto ou sempre em um ambiente barulhento?",
+      "option1": "Sempre ter que comer em silêncio absoluto",
+      "option2": "Sempre ter que comer em um ambiente barulhento"
+    },
+    {
+      "question": "Comer a mesma coisa todos os dias ou nunca mais repetir uma refeição?",
+      "option1": "Comer a mesma coisa todos os dias",
+      "option2": "Nunca mais repetir uma refeição"
+    },
+    {
+      "question": "Comer apenas alimentos secos ou apenas alimentos líquidos?",
+      "option1": "Comer apenas alimentos secos",
+      "option2": "Comer apenas alimentos líquidos"
+    },
+    {
+      "question": "Nunca mais comer batata frita ou nunca mais comer sorvete?",
+      "option1": "Nunca mais comer batata frita",
+      "option2": "Nunca mais comer sorvete"
+    },
+    {
+      "question": "Sempre ter que cozinhar para todos ou nunca mais cozinhar?",
+      "option1": "Sempre ter que cozinhar para todos",
+      "option2": "Nunca mais cozinhar"
+    },
+    {
+      "question": "Comer apenas carnes ou apenas vegetais para sempre?",
+      "option1": "Comer apenas carnes",
+      "option2": "Comer apenas vegetais para sempre"
+    },
+    {
+      "question": "Sempre comer algo picante ou algo muito doce?",
+      "option1": "Sempre comer algo picante",
+      "option2": "Sempre comer algo muito doce"
+    },
+    {
+      "question": "Nunca mais comer algo fresco ou nunca mais comer algo congelado?",
+      "option1": "Nunca mais comer algo fresco",
+      "option2": "Nunca mais comer algo congelado"
+    },
+    {
+      "question": "Comer apenas café da manhã ou apenas jantar todos os dias?",
+      "option1": "Comer apenas café da manhã todos os dias",
+      "option2": "Comer apenas jantar todos os dias"
+    },
+    {
+      "question": "Nunca mais comer fast food ou nunca mais comer comida gourmet?",
+      "option1": "Nunca mais comer fast food",
+      "option2": "Nunca mais comer comida gourmet"
+    },
+    {
+      "question": "Comer apenas comidas exóticas ou apenas comidas simples?",
+      "option1": "Comer apenas comidas exóticas",
+      "option2": "Comer apenas comidas simples"
+    },
+    {
+      "question": "Sempre ter que comer sentado no chão ou em pé?",
+      "option1": "Sempre ter que comer sentado no chão",
+      "option2": "Sempre ter que comer em pé"
+    },
+    {
+      "question": "Comer apenas frutas para sempre ou nunca mais comer frutas?",
+      "option1": "Comer apenas frutas para sempre",
+      "option2": "Nunca mais comer frutas"
+    },
+    {
+      "question": "Nunca mais comer bolos ou nunca mais comer tortas?",
+      "option1": "Nunca mais comer bolos",
+      "option2": "Nunca mais comer tortas"
+    },
+    {
+      "question": "Sempre comer com talheres de plástico ou com as mãos?",
+      "option1": "Sempre comer com talheres de plástico",
+      "option2": "Sempre comer com as mãos"
+    },
+    {
+      "question": "Nunca mais comer sopas ou nunca mais comer saladas?",
+      "option1": "Nunca mais comer sopas",
+      "option2": "Nunca mais comer saladas"
+    },
+    {
+      "question": "Sempre comer comidas muito quentes ou muito geladas?",
+      "option1": "Sempre comer comidas muito quentes",
+      "option2": "Sempre comer comidas muito geladas"
+    },
+    {
+      "question": "Comer apenas alimentos que você não gosta ou nunca mais comer seus favoritos?",
+      "option1": "Comer apenas alimentos que você não gosta",
+      "option2": "Nunca mais comer seus favoritos"
+    },
+    {
+      "question": "Nunca mais comer chocolate branco ou nunca mais comer chocolate preto?",
+      "option1": "Nunca mais comer chocolate branco",
+      "option2": "Nunca mais comer chocolate preto"
+    },
+    {
+      "question": "Comer apenas comida local ou apenas comida internacional?",
+      "option1": "Comer apenas comida local",
+      "option2": "Comer apenas comida internacional"
+    },
+    {
+      "question": "Nunca mais comer algo frito ou algo assado?",
+      "option1": "Nunca mais comer algo frito",
+      "option2": "Nunca mais comer algo assado"
+    },
+    {
+      "question": "Sempre comer sobremesas doces ou sobremesas azedas?",
+      "option1": "Sempre comer sobremesas doces",
+      "option2": "Sempre comer sobremesas azedas"
+    },
+    {
+      "question": "Nunca mais beber suco ou nunca mais beber leite?",
+      "option1": "Nunca mais beber suco",
+      "option2": "Nunca mais beber leite"
+    },
+    {
+      "question": "Comer alimentos que fazem muito barulho ou alimentos sem crocância nenhuma?",
+      "option1": "Comer alimentos que fazem muito barulho",
+      "option2": "Comer alimentos sem crocância nenhuma"
+    },
+    {
+      "question": "Comer sempre pratos quentes ou pratos frios?",
+      "option1": "Comer sempre pratos quentes",
+      "option2": "Comer sempre pratos frios"
+    }
+  ],
+  "Tecnologia": [
+    {
+      "question": "Nunca mais usar internet ou nunca mais usar um smartphone?",
+      "option1": "Nunca mais usar internet",
+      "option2": "Nunca mais usar um smartphone"
+    },
+    {
+      "question": "Ter uma conexão de internet extremamente lenta ou um computador que sempre trava?",
+      "option1": "Ter uma conexão de internet extremamente lenta",
+      "option2": "Um computador que sempre trava"
+    },
+    {
+      "question": "Nunca mais atualizar seus dispositivos ou nunca mais comprar novos dispositivos?",
+      "option1": "Nunca mais atualizar seus dispositivos",
+      "option2": "Nunca mais comprar novos dispositivos"
+    },
+    {
+      "question": "Nunca mais usar redes sociais ou nunca mais assistir vídeos online?",
+      "option1": "Nunca mais usar redes sociais",
+      "option2": "Nunca mais assistir vídeos online"
+    },
+    {
+      "question": "Sempre usar fones de ouvido desconfortáveis ou nunca mais usar fones?",
+      "option1": "Sempre usar fones de ouvido desconfortáveis",
+      "option2": "Nunca mais usar fones"
+    },
+    {
+      "question": "Usar apenas um smartphone com tela rachada ou um com bateria que dura 30 minutos?",
+      "option1": "Usar apenas um smartphone com tela rachada",
+      "option2": "Um com bateria que dura 30 minutos"
+    },
+    {
+      "question": "Nunca mais usar Wi-Fi ou nunca mais usar dados móveis?",
+      "option1": "Nunca mais usar Wi-Fi",
+      "option2": "Nunca mais usar dados móveis"
+    },
+    {
+      "question": "Usar apenas um teclado sem letras ou um mouse que não funciona bem?",
+      "option1": "Usar apenas um teclado sem letras",
+      "option2": "Um mouse que não funciona bem"
+    },
+    {
+      "question": "Nunca mais usar um sistema operacional moderno ou nunca mais usar aplicativos modernos?",
+      "option1": "Nunca mais usar um sistema operacional moderno",
+      "option2": "Nunca mais usar aplicativos modernos"
+    },
+    {
+      "question": "Ter que recarregar seus dispositivos a cada hora ou nunca mais poder carregá-los totalmente?",
+      "option1": "Ter que recarregar seus dispositivos a cada hora",
+      "option2": "Nunca mais poder carregá-los totalmente"
+    },
+    {
+      "question": "Sempre receber notificações atrasadas ou nunca mais receber notificações?",
+      "option1": "Sempre receber notificações atrasadas",
+      "option2": "Nunca mais receber notificações"
+    },
+    {
+      "question": "Ter que usar apenas dispositivos grandes e pesados ou dispositivos muito pequenos?",
+      "option1": "Ter que usar apenas dispositivos grandes e pesados",
+      "option2": "Dispositivos muito pequenos"
+    },
+    {
+      "question": "Nunca mais poder usar streaming de música ou streaming de vídeo?",
+      "option1": "Nunca mais poder usar streaming de música",
+      "option2": "Streaming de vídeo"
+    },
+    {
+      "question": "Usar apenas tecnologia dos anos 90 ou tecnologia experimental sempre inacabada?",
+      "option1": "Usar apenas tecnologia dos anos 90",
+      "option2": "Tecnologia experimental sempre inacabada"
+    },
+    {
+      "question": "Sempre usar um monitor preto e branco ou um monitor que pisca constantemente?",
+      "option1": "Sempre usar um monitor preto e branco",
+      "option2": "Um monitor que pisca constantemente"
+    },
+    {
+      "question": "Nunca mais poder usar GPS ou nunca mais usar câmera nos dispositivos?",
+      "option1": "Nunca mais poder usar GPS",
+      "option2": "Nunca mais usar câmera nos dispositivos"
+    },
+    {
+      "question": "Ter que digitar tudo com um teclado muito pequeno ou com um teclado muito barulhento?",
+      "option1": "Ter que digitar tudo com um teclado muito pequeno",
+      "option2": "Com um teclado muito barulhento"
+    },
+    {
+      "question": "Sempre usar cabos para tudo ou nunca mais poder usar dispositivos com fio?",
+      "option1": "Sempre usar cabos para tudo",
+      "option2": "Nunca mais poder usar dispositivos com fio"
+    },
+    {
+      "question": "Usar um smartphone com câmera de baixa qualidade ou um sem câmera?",
+      "option1": "Usar um smartphone com câmera de baixa qualidade",
+      "option2": "Um sem câmera"
+    },
+    {
+      "question": "Ter que assistir tudo em baixa resolução ou nunca mais assistir nada?",
+      "option1": "Ter que assistir tudo em baixa resolução",
+      "option2": "Nunca mais assistir nada"
+    },
+    {
+      "question": "Nunca mais poder baixar arquivos ou nunca mais poder enviá-los?",
+      "option1": "Nunca mais poder baixar arquivos",
+      "option2": "Nunca mais poder enviá-los"
+    },
+    {
+      "question": "Sempre usar versões beta de todos os aplicativos ou versões muito antigas?",
+      "option1": "Sempre usar versões beta de todos os aplicativos",
+      "option2": "Versões muito antigas"
+    },
+    {
+      "question": "Nunca mais usar dispositivos inteligentes ou nunca mais usar computadores?",
+      "option1": "Nunca mais usar dispositivos inteligentes",
+      "option2": "Nunca mais usar computadores"
+    },
+    {
+      "question": "Usar internet ilimitada com velocidade lenta ou internet limitada com alta velocidade?",
+      "option1": "Usar internet ilimitada com velocidade lenta",
+      "option2": "Internet limitada com alta velocidade"
+    },
+    {
+      "question": "Sempre usar um smartphone com bateria fraca ou um laptop que aquece muito?",
+      "option1": "Sempre usar um smartphone com bateria fraca",
+      "option2": "Um laptop que aquece muito"
+    },
+    {
+      "question": "Nunca mais usar antivírus ou nunca mais atualizar seus dispositivos?",
+      "option1": "Nunca mais usar antivírus",
+      "option2": "Nunca mais atualizar seus dispositivos"
+    },
+    {
+      "question": "Sempre usar um navegador lento ou que trava constantemente?",
+      "option1": "Sempre usar um navegador lento",
+      "option2": "Que trava constantemente"
+    },
+    {
+      "question": "Nunca mais poder usar Google ou nunca mais usar redes sociais?",
+      "option1": "Nunca mais poder usar Google",
+      "option2": "Nunca mais usar redes sociais"
+    },
+    {
+      "question": "Sempre usar fones com ruídos ou nunca mais usar fones?",
+      "option1": "Sempre usar fones com ruídos",
+      "option2": "Nunca mais usar fones"
+    },
+    {
+      "question": "Sempre usar telas sujas ou dispositivos que desligam sozinhos?",
+      "option1": "Sempre usar telas sujas",
+      "option2": "Dispositivos que desligam sozinhos"
+    },
+    {
+      "question": "Nunca mais poder usar serviços de nuvem ou nunca mais usar pen drives?",
+      "option1": "Nunca mais poder usar serviços de nuvem",
+      "option2": "Nunca mais usar pen drives"
+    },
+    {
+      "question": "Sempre usar dispositivos grandes e desajeitados ou nunca mais ter portabilidade?",
+      "option1": "Sempre usar dispositivos grandes e desajeitados",
+      "option2": "Nunca mais ter portabilidade"
+    },
+    {
+      "question": "Usar um smartphone com apenas 1 GB de armazenamento ou um computador sem Wi-Fi?",
+      "option1": "Usar um smartphone com apenas 1 GB de armazenamento",
+      "option2": "Um computador sem Wi-Fi"
+    }
+  ]
+}

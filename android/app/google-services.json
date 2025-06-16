@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1003839032120",
+    "project_id": "escolhasimpossiveis-2b185",
+    "storage_bucket": "escolhasimpossiveis-2b185.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1003839032120:android:cbcf8505f3c2e9f1be0fcd",
+        "android_client_info": {
+          "package_name": "com.escolhas_impossiveis"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpotbSBeT3rzi0C8CZg3nokx3RKebM9a0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
